@@ -17,19 +17,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--Intro start-->
-## Sobre mí
-Entusiasta del desarrollo de software con experiencia en una amplia gama de tecnologías ⚡, desde la creación de algoritmos hasta el diseño de experiencias de usuario innovadoras 😄.
+## Acerca de mí
+¡Hola! Soy un entusiasta del desarrollo de software con una amplia experiencia en diversas tecnologías ⚡. Desde la conceptualización de algoritmos hasta la creación de experiencias de usuario innovadoras 😄.
 
-- 🚀 Especializado en el desarrollo Frontend con React y Angular. Desarrollo de aplicaciones móviles con Flutter y Swift para iOS.
-- 💡 Experto en gestión de datos con MySQL, SQLite, Firebase y MongoDB.
-- 🔧 Hábil en el desarrollo Backend con Node.js, Django y Laravel. Experiencia en la implementación de APIs RESTful.
-- 💬 Apasionado por la resolución de problemas y el diseño centrado en el usuario, utilizando herramientas como Sketch, Adobe XD y Figma.
+- 🚀 Me especializo en el desarrollo Frontend, trabajando con React  para crear interfaces de usuario intuitivas y atractivas. También tengo experiencia en el desarrollo de aplicaciones móviles con Flutter y Swift para iOS.
+- 💡 Soy un experto en la gestión de datos, utilizando bases de datos como MySQL, MongoDB, y Firebase para almacenar y manipular información de manera eficiente.
+- 🔧 Tengo habilidades sólidas en el desarrollo Backend, utilizando Node.js, Django y Laravel para crear robustas APIs RESTful y sistemas escalables.
+- 💬 Me apasiona resolver problemas y crear soluciones centradas en el usuario.
+
 
 ## Habilidades
 - **Lenguajes de Programación**: JavaScript, TypeScript, Python, Swift, Dart, Java, Kotlin, HTML, CSS, SQL. 🚀
-- **Frameworks y Tecnologías**: React, Vue.js, Angular, Flutter, Node.js, Django, Laravel, .NET. 🔧
+- **Frameworks y Tecnologías**: React, Angular, Flutter, Node.js, Django, Laravel, .NET. 🔧
 - **Bases de Datos**: MySQL, SQLite, Firebase, MongoDB. 💡
-- **Herramientas de Diseño**: Sketch, Adobe XD, Figma. 🎨
 
 
 
